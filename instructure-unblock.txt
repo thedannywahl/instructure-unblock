@@ -14,7 +14,42 @@
 ! UPLOADED FILES, SCRIPTS, STYLESHEETS
 @@||instructure.cloudfront.net
 @@||instructure-uploads.s3.amazonaws.com
+@@||inst-fs-*-prod.inscloudgate.net
 
 ! CANVADOCS
 @@||canvadocs.instructure.com
 @@||cluster*-files.instructure.com
+
+! ARC
+@@||instructuremedia.com$~third-party,subdocument
+@@||notorious-prod.s3.amazonaws.com
+
+! CANVAS DATA
+@@||pandata-events.*.inshosteddata.com
+@@||portal.inshosteddata.com
+@@||hosted-data-work.s3.amazonaws.com
+
+! COMMONS
+@@||lor-images.s3.amazonaws.com
+@@||pensieve*.s3.amazonaws.com
+
+! GAUGE
+@@||gauge-*-prod.instructure.com
+@@||quiz-api-production-s3-uploads-*.s3.amazonaws.com
+!! TODO: GAUGE CLOUDFRONT
+
+! SCORM
+!! TODO: SCORM
+
+! EDUAPPS
+@@||edu-apps.org
+@@||eduappcenter.com
+
+! BRIDGE
+@@||bridgeapp.com$~third-party
+@@||bridgelms-production-*.s3.amazonaws.com
+@@||pandapush-*-prod.inscloudgate.net
+@@||r2b-*-prod.insops.net
+@@||s3.amazonaws.com/bridgelms-production-
+@@||bridge-scorm.*.insops.net
+@@||holly.bridgeops.net
