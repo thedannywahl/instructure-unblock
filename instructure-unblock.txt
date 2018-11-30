@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0001
+! Version: 0002
 ! Title: Instructure Whitelist
-! Last modified: 1543612801
+! Last modified: 1543617858
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
