@@ -49,6 +49,9 @@
 @@||eduappcenter.com
 @@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
 
+! BIGBLUEBUTTON
+@@||blindsidenetworks.com$~third-party
+
 
 ! BRIDGE
 @@||bridgeapp.com$~third-party
