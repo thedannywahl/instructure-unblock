@@ -58,6 +58,9 @@
 ! BADGR
 @@||api.badgr.io
 
+! RCE
+@@||rich-content-*.inscloudgate.net
+
 ! Collaborations
 @@||google-drive-lti-*-prod.instructure.com
 @@||office365-*-prod.instructure.com
