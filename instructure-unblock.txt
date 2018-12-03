@@ -47,6 +47,8 @@
 ! EDUAPPS
 @@||edu-apps.org
 @@||eduappcenter.com
+@@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
+
 
 ! BRIDGE
 @@||bridgeapp.com$~third-party
