@@ -30,6 +30,9 @@
 @@||portal.inshosteddata.com
 @@||hosted-data-work.s3.amazonaws.com
 
+! ANALYTICS
+@@||canvas-analytics-*-prod.inscloudgate.net
+
 ! COMMONS
 @@||lor-images.s3.amazonaws.com
 @@||pensieve*.s3.amazonaws.com
