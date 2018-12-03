@@ -55,6 +55,8 @@
 ! BIGBLUEBUTTON
 @@||blindsidenetworks.com$~third-party
 
+! BADGR
+@@||api.badgr.io
 
 ! BRIDGE
 @@||bridgeapp.com$~third-party
