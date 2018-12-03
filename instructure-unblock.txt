@@ -61,6 +61,9 @@
 ! RCE
 @@||rich-content-*.inscloudgate.net
 
+! QUIZZES.NEXT
+@@||*.quiz-lti-*-prod.instructure.com
+
 ! Collaborations
 @@||google-drive-lti-*-prod.instructure.com
 @@||office365-*-prod.instructure.com
