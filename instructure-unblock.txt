@@ -58,6 +58,10 @@
 ! BADGR
 @@||api.badgr.io
 
+! Collaborations
+@@||google-drive-lti-*-prod.instructure.com
+@@||office365-*-prod.instructure.com
+
 ! BRIDGE
 @@||bridgeapp.com$~third-party
 @@||bridgelms-production-*.s3.amazonaws.com
