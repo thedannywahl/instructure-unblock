@@ -22,8 +22,9 @@
 @@||cluster*-files.instructure.com
 
 ! ARC
-@@||instructuremedia.com$~third-party,subdocument
+@@||instructuremedia.com
 @@||notorious-prod.s3.amazonaws.com
+@@||s3.amazonaws.com/instructure-signal-prod/*
 
 ! CANVAS DATA
 @@||pandata-events.*.inshosteddata.com
