@@ -40,7 +40,9 @@
 !! TODO: GAUGE CLOUDFRONT
 
 ! SCORM
-!! TODO: SCORM
+@@||scone-prod.*.insops.net
+@@||scone-production-s3-filestore-*.s3.amazonaws.com
+@@||scorm-*-prod.insops.net
 
 ! EDUAPPS
 @@||edu-apps.org
