@@ -74,9 +74,14 @@
 
 ! BRIDGE
 @@||bridgeapp.com$~third-party
+@@||perform.bridgeapp.com$~third-party
 @@||bridgelms-production-*.s3.amazonaws.com
 @@||pandapush-*-prod.inscloudgate.net
 @@||r2b-*-prod.insops.net
 @@||s3.amazonaws.com/bridgelms-production-
 @@||bridge-scorm.*.insops.net
 @@||holly.bridgeops.net
+
+! BRIDGE SUITE
+@@||bridgelms-production-*.s3.amazonaws.com
+@@||suite.bridgeapp.com$~third-party
