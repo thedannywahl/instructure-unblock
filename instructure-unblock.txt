@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0007
+! Version: 0008
 ! Title: Instructure Whitelist
-! Last modified: 1548789102
+! Last modified: 1550768261
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
@@ -53,6 +53,9 @@
 @@||edu-apps.org
 @@||eduappcenter.com
 @@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
+
+! DOCUMENTATION
+@@||https://s3.amazonaws.com/tr-learncanvas/*
 
 ! BIGBLUEBUTTON
 @@||blindsidenetworks.com$~third-party
