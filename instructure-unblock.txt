@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0012
+! Version: 0013
 ! Title: Instructure Whitelist
-! Last modified: 1564765547
+! Last modified: 1567783340
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
@@ -96,6 +96,10 @@
 @@||bridgelms-production-*.s3.amazonaws.com
 @@||suite.bridgeapp.com$~third-party
 @@||auth.bridgeapp.com
+
+! CAREER DRIVERS
+@@||d10ev4f5xgy64m.cloudfront.net
+@@||bridge-career-driver-cards.*.amazonaws.com
 
 ! INST ENGINGEERING
 @@||buc.inseng.net
