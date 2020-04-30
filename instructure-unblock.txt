@@ -107,3 +107,6 @@
 @@||buc.inseng.net
 @@||instructure.design
 @@||livegrep.inseng.net
+
+! CONFERENCES
+@@||*.blindsidenetworks.com$~third-party
