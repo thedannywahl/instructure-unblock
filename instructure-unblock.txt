@@ -17,7 +17,7 @@
 
 ! UPLOADED FILES, SCRIPTS, STYLESHEETS
 @@||instructure.cloudfront.net
-@@||instructure-uploads.s3.amazonaws.com
+@@||instructure-uploads*.s3.amazonaws.com
 @@||inst-fs-*-prod.inscloudgate.net
 
 ! DOCVIEWER
