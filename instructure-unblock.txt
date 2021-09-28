@@ -68,6 +68,9 @@
 
 ! QUIZZES
 @@||*.quiz-lti-*-prod.instructure.com
+@@||*.quiz-lti-*-beta.instructure.com
+@@||*.quiz-api-*-prod.instructure.com
+@@||*.quiz-api-*-beta.instructure.com
 
 ! MASTERY PATHS
 @@||conditional-release-*-prod.instructure.com
