@@ -64,6 +64,7 @@
 ! RCE
 @@||rich-content-*.inscloudgate.net
 @@||dvgcns7dz7zc.cloudfront.net/rce_service
+@@||instructure.codecogs.com
 
 ! QUIZZES
 @@||*.quiz-lti-*-prod.instructure.com
