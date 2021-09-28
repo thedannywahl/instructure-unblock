@@ -65,7 +65,7 @@
 @@||rich-content-*.inscloudgate.net
 @@||dvgcns7dz7zc.cloudfront.net/rce_service
 
-! QUIZZES.NEXT
+! QUIZZES
 @@||*.quiz-lti-*-prod.instructure.com
 
 ! MASTERY PATHS
