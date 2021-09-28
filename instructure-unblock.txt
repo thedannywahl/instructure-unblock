@@ -42,11 +42,6 @@
 @@||lor-images.s3.amazonaws.com
 @@||pensieve*.s3.amazonaws.com
 
-! GAUGE
-@@||gauge-*-prod.instructure.com
-@@||quiz-api-production-s3-uploads-*.s3.amazonaws.com
-!! TODO: GAUGE CLOUDFRONT
-
 ! SCORM
 @@||scone-prod.*.insops.net
 @@||scone-production-s3-filestore-*.s3.amazonaws.com
