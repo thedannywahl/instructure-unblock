@@ -20,11 +20,11 @@
 @@||instructure-uploads.s3.amazonaws.com
 @@||inst-fs-*-prod.inscloudgate.net
 
-! CANVADOCS
+! DOCVIEWER
 @@||canvadocs.instructure.com
 @@||cluster*-files.instructure.com
 
-! ARC
+! STUDIO
 @@||instructuremedia.com
 @@||nv.instructuremedia.com
 @@||notorious-prod.s3.amazonaws.com
@@ -71,7 +71,7 @@
 ! MASTERY PATHS
 @@||conditional-release-*-prod.instructure.com
 
-! Collaborations
+! COLLABORATIONS
 @@||google-drive-lti-*-prod.instructure.com
 @@||office365-*-prod.instructure.com
 
