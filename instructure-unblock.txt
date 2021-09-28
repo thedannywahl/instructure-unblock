@@ -75,29 +75,6 @@
 @@||google-drive-lti-*-prod.instructure.com
 @@||office365-*-prod.instructure.com
 
-! BRIDGE
-@@||bridgeapp.com$~third-party
-@@||perform.bridgeapp.com$~third-party
-@@||bridgelms-production-*.s3.amazonaws.com
-@@||pandapush-*-prod.inscloudgate.net
-@@||r2b-*-prod.insops.net
-@@||s3.amazonaws.com/bridgelms-production-
-@@||bridge-scorm.*.insops.net
-@@||holly.bridgeops.net
-@@||authmonger-*-prod.insops.net
-@@||r2b-*-prod.instructure.com
-@@||bridgelms-production-appbucket1-mll0x52cmp4b.s3.amazonaws.com
-@@||sentry.insops.net
-
-! BRIDGE SUITE
-@@||bridgelms-production-*.s3.amazonaws.com
-@@||suite.bridgeapp.com$~third-party
-@@||auth.bridgeapp.com
-
-! CAREER DRIVERS
-@@||d10ev4f5xgy64m.cloudfront.net
-@@||bridge-career-driver-cards.*.amazonaws.com
-
 ! INST ENGINGEERING
 @@||buc.inseng.net
 @@||instructure.design
