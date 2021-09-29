@@ -5,14 +5,12 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
-! INDIVIDUAL SCHOOLS
+! GENERAL
 @@||instructure.com$~third-party
 @@||masteryconnect.com$~third-party
 @@||portfolium.com$~third-party
 @@||du11hjcvx0uqb.cloudfront.net
 @@||canvas-user-content.com
-
-! FREE FOR TEACHER
 @@||canvaslms.com$~third-party
 
 ! UPLOADED FILES, SCRIPTS, STYLESHEETS
