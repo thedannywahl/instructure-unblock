@@ -12,83 +12,39 @@
 @@||du11hjcvx0uqb.cloudfront.net
 @@||canvaslms.com$~third-party
 
-! FILE STORAGE
-@@||instructure.cloudfront.net
-@@||instructure-uploads*.s3.amazonaws.com
-@@||inst-fs-*-prod.inscloudgate.net
-@@||canvas-user-content.com
+! ANALYTICS
+@@||canvas-analytics-*-prod.inscloudgate.net
 
-! DOCVIEWER
-@@||canvadocs.instructure.com
-@@||cluster*-files.instructure.com
-
-! STUDIO
-@@||instructuremedia.com
-@@||nv.instructuremedia.com
-@@||notorious-prod*.s3.amazonaws.com
-@@||s3.amazonaws.com/instructure-signal-prod/*
-
-! OUTCOMES
-||outcomes-*-prod.instructure.com
+! BADGES
+@@||api.badgr.io
 
 ! CANVAS DATA
 @@||pandata-events.*.inshosteddata.com
 @@||portal.inshosteddata.com
 @@||hosted-data-work.s3.amazonaws.com
 
-! ANALYTICS
-@@||canvas-analytics-*-prod.inscloudgate.net
+! COLLABORATIONS
+@@||google-drive-lti-*-prod.instructure.com
+@@||office365-*-prod.instructure.com
 
 ! COMMONS
 @@||lor-images.s3.amazonaws.com
 @@||pensieve*.s3.amazonaws.com
 
-! SCORM
-@@||scone-prod.*.insops.net
-@@||scone-production-s3-filestore-*.s3.amazonaws.com
-@@||scorm-*-prod.insops.net
-
-! EDUAPPS
-@@||edu-apps.org
-@@||eduappcenter.com
-@@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
+! CONFERENCES
+@@||blindsidenetworks.com$~third-party
 
 ! DOCUMENTATION
 @@||https://s3.amazonaws.com/tr-learncanvas/*
 
-! BIGBLUEBUTTON
-@@||blindsidenetworks.com$~third-party
+! DOCVIEWER
+@@||canvadocs.instructure.com
+@@||cluster*-files.instructure.com
 
-! BADGR
-@@||api.badgr.io
-
-! RCE
-@@||rich-content-*.inscloudgate.net
-@@||dvgcns7dz7zc.cloudfront.net/rce_service
-@@||instructure.codecogs.com
-
-! QUIZZES
-@@||*.quiz-lti-*-prod.instructure.com
-@@||*.quiz-lti-*-beta.instructure.com
-@@||*.quiz-api-*-prod.instructure.com
-@@||*.quiz-api-*-beta.instructure.com
-
-! MASTERY PATHS
-@@||conditional-release-*-prod.instructure.com
-
-! COLLABORATIONS
-@@||google-drive-lti-*-prod.instructure.com
-@@||office365-*-prod.instructure.com
-
-! INST ENGINGEERING
-@@||buc.inseng.net
-@@||instructure.design
-@@||livegrep.inseng.net
-
-! CONFERENCES
-@@||*.blindsidenetworks.com$~third-party
-
-! E-MAIL
+! EDUAPPS
+@@||edu-apps.org
+@@||eduappcenter.com
+@@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com! E-MAIL
 @@||23.249.221.108
 @@||23.249.221.109
 @@||23.249.221.110
@@ -133,3 +89,41 @@
 @@||52.60.179.12
 @@||23.249.209.14
 @@||23.249.209.15
+
+! ENGINGEERING
+@@||inseng.net
+@@||instructure.design
+
+! FILE STORAGE
+@@||instructure.cloudfront.net
+@@||instructure-uploads*.s3.amazonaws.com
+@@||inst-fs-*-prod.inscloudgate.net
+@@||canvas-user-content.com
+
+! MASTERYPATHS
+@@||conditional-release-*-prod.instructure.com
+
+! OUTCOMES
+||outcomes-*-prod.instructure.com
+
+! QUIZZES
+@@||*.quiz-lti-*-prod.instructure.com
+@@||*.quiz-lti-*-beta.instructure.com
+@@||*.quiz-api-*-prod.instructure.com
+@@||*.quiz-api-*-beta.instructure.com
+
+! RCE
+@@||rich-content-*.inscloudgate.net
+@@||dvgcns7dz7zc.cloudfront.net/rce_service
+@@||instructure.codecogs.com
+
+! SCORM
+@@||scone-prod.*.insops.net
+@@||scone-production-s3-filestore-*.s3.amazonaws.com
+@@||scorm-*-prod.insops.net
+
+! STUDIO
+@@||instructuremedia.com
+@@||nv.instructuremedia.com
+@@||notorious-prod*.s3.amazonaws.com
+@@||s3.amazonaws.com/instructure-signal-prod/*
