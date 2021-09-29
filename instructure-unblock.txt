@@ -10,13 +10,13 @@
 @@||masteryconnect.com$~third-party
 @@||portfolium.com$~third-party
 @@||du11hjcvx0uqb.cloudfront.net
-@@||canvas-user-content.com
 @@||canvaslms.com$~third-party
 
-! UPLOADED FILES, SCRIPTS, STYLESHEETS
+! FILE STORAGE
 @@||instructure.cloudfront.net
 @@||instructure-uploads*.s3.amazonaws.com
 @@||inst-fs-*-prod.inscloudgate.net
+@@||canvas-user-content.com
 
 ! DOCVIEWER
 @@||canvadocs.instructure.com
