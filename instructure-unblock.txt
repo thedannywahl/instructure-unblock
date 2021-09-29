@@ -11,8 +11,8 @@
 @@||portfolium.com$~third-party
 @@||du11hjcvx0uqb.cloudfront.net
 @@||canvaslms.com$~third-party
-@@||videri.certicaconnect.com
-@@||eesysoft.com
+@@||videri.certicaconnect.com$~third-party
+@@||eesysoft.com$~third-party
 
 ! ANALYTICS
 @@||canvas-analytics-*-prod.inscloudgate.net
