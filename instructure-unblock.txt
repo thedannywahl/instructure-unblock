@@ -47,7 +47,8 @@
 @@||edu-apps.org
 @@||eduappcenter.com
 @@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
-! ENGINGEERING
+
+! ENGINEERING
 @@||inseng.net
 @@||instructure.design
 
