@@ -69,7 +69,6 @@
 @@||*.quiz-lti-*-beta.instructure.com
 @@||*.quiz-api-*-prod.instructure.com
 @@||*.quiz-api-*-beta.instructure.com
-@@||
 
 ! RCE
 @@||rich-content-*.inscloudgate.net
@@ -87,6 +86,10 @@
 @@||notorious-prod*.s3.amazonaws.com
 @@||s3.amazonaws.com/instructure-signal-prod/*
 
+! LEARNPLATFORM
+@@||app.learnplatform.com
+@@||domain-resources.learnplatform.com
+@@||data.learnplatform.com
 
 ! AUTHENTICATION US-EAST-1
 @@||184.72.117.210
