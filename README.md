@@ -3,4 +3,4 @@ Instructure unblock is an exceptions list (whitelist) for adblock software which
 
 [Install Instructure Unblock](abp:subscribe?location=https://raw.githubusercontent.com/thedannywahl/instructure-unblock/master/instructure-unblock.txt&title=Instructure Unblock)
 
-[Download the list](https://raw.githubusercontent.com/thedannywahl/instructure-unblock/master/instructure-unblock.txt)
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fthedannywahl%2Finstructure-unblock%2Fblob%2Fmaster%2Finstructure-unblock.txt&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
