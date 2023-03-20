@@ -102,6 +102,7 @@
 @@||learningsuccess.org$~third-party
 
 ! CANVAS STUDIO
+@@||arcmedia.com$~third-party
 @@||arc-contact.com$~third-party
 @@||instructuremedia.com
 @@||nv.instructuremedia.com
