@@ -36,6 +36,7 @@
 ! COMMUNITY
 @@||xjnht99997.lithium.com$~third-party
 @@||community.canvaslms.com$~third-party
+@@||canvas.screenstepslive.com$~third-party
 
 ! CONFERENCES
 @@||blindsidenetworks.com$~third-party
