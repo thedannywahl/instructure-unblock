@@ -102,8 +102,15 @@
 @@||canvas.net$~third-party
 
 ! REDIRECTS
+@@||canvasconline.com$~third-party
 @@||instructurecon.com$~third-party
-
+@@||instructure-contact.com$~third-party
+@@||canvas-contact.com$~third-party
+@@||arc-contact.com$~third-party
+@@||canvaslms.com.au$~third-party
+@@||canvaslms.com.hk$~third-party
+@@||canvaslms.eu$~third-party
+@@||canvasvle.co.uk$~third-party
 
 ! AUTHENTICATION US-EAST-1
 @@||184.72.117.210
