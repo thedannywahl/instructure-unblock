@@ -33,6 +33,10 @@
 @@||lor-images.s3.amazonaws.com
 @@||pensieve*.s3.amazonaws.com
 
+! COMMUNITY
+@@||xjnht99997.lithium.com$~third-party
+@@||community.canvaslms.com$~third-party
+
 ! CONFERENCES
 @@||blindsidenetworks.com$~third-party
 
@@ -93,6 +97,9 @@
 
 ! CANVAS NETWORK
 @@||canvas.net$~third-party
+
+! REDIRECTS
+
 
 ! AUTHENTICATION US-EAST-1
 @@||184.72.117.210
