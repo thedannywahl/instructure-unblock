@@ -45,7 +45,7 @@
     @@||google-drive-lti-*-prod.instructure.com
     @@||office365-*-prod.instructure.com
 
-    ! CANVAS COMMONS
+    ! COMMONS
     @@||lor-images.s3.amazonaws.com
     @@||pensieve*.s3.amazonaws.com
 
@@ -80,7 +80,7 @@
     @@||*.quiz-api-*-prod.instructure.com
     @@||*.quiz-api-*-beta.instructure.com
 
-    ! CANVAS LMS RCE
+    ! RCE
     @@||rich-content-*.inscloudgate.net
     @@||dvgcns7dz7zc.cloudfront.net
     @@||instructure.codecogs.com
@@ -110,6 +110,7 @@
 
 ! MASTERY CONNECT
 @@||masteryconnect.com$~third-party
+@@||app.masteryconnect.com
 
 ! IMPACT
 @@||eesysoft.com$~third-party
