@@ -100,6 +100,16 @@
 ! CANVAS STUDENT PATHWAYS
 @@||portfolium.com$~third-party
 @@||learningsuccess.org$~third-party
+@@||portfolium.asia$~third-party
+@@||portfolium.com.au$~third-party
+@@||portfolium.de.com$~third-party
+@@||portfolium.eu.com$~third-party
+@@||portfolium.me$~third-party
+@@||portfolium.net$~third-party
+@@||portfolium.org$~third-party
+@@||portfoliummail.com$~third-party
+@@||portolium.org$~third-party
+@@||potfolium.org$~third-party
 
 ! CANVAS STUDIO
 @@||arcmedia.com$~third-party
