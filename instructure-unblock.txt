@@ -16,8 +16,7 @@
     @@||xjnht99997.lithium.com$~third-party
     @@||community.canvaslms.com$~third-party
     @@||canvas.screenstepslive.com$~third-party
-    @@||https://s3.amazonaws.com/tr-learncanvas/*
-
+    @@||tr-learncanvas.s3.amazonaws.com$~third-party
 
     ! EDUAPP CENTER
     @@||edu-apps.org
@@ -83,7 +82,7 @@
 
     ! CANVAS LMS RCE
     @@||rich-content-*.inscloudgate.net
-    @@||dvgcns7dz7zc.cloudfront.net/rce_service
+    @@||dvgcns7dz7zc.cloudfront.net
     @@||instructure.codecogs.com
 
     ! SCORM
@@ -107,7 +106,7 @@
 @@||instructuremedia.com
 @@||nv.instructuremedia.com
 @@||notorious-prod*.s3.amazonaws.com
-@@||s3.amazonaws.com/instructure-signal-prod/*
+@@||instructure-signal-prod.s3.amazonaws.com
 
 ! MASTERY CONNECT
 @@||masteryconnect.com$~third-party
