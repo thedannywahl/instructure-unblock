@@ -55,16 +55,15 @@
 
 ! ENGINEERING
 @@||inseng.net
-@@||instructure.design
+@@||insops.net
+@@||instructure.design$~third-party
+@@||instructure.github.io$~third-party
 
 ! FILE STORAGE
 @@||instructure.cloudfront.net
 @@||instructure-uploads*.s3.amazonaws.com
 @@||inst-fs-*-prod.inscloudgate.net
 @@||canvas-user-content.com
-
-! INSTRUCTURECON
-@@||instructurecon.com$~third-party
 
 ! MASTERYPATHS
 @@||conditional-release-*-prod.instructure.com
@@ -103,6 +102,7 @@
 @@||canvas.net$~third-party
 
 ! REDIRECTS
+@@||instructurecon.com$~third-party
 
 
 ! AUTHENTICATION US-EAST-1
