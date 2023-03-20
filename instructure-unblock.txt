@@ -63,6 +63,9 @@
 @@||inst-fs-*-prod.inscloudgate.net
 @@||canvas-user-content.com
 
+! INSTRUCTURECON
+@@||instructurecon.com$~third-party
+
 ! MASTERYPATHS
 @@||conditional-release-*-prod.instructure.com
 
