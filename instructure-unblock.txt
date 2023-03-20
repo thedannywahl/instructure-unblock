@@ -91,6 +91,9 @@
 @@||domain-resources.learnplatform.com
 @@||data.learnplatform.com
 
+! CANVAS NETWORK
+@@||canvas.net$~third-party
+
 ! AUTHENTICATION US-EAST-1
 @@||184.72.117.210
 @@||107.23.48.136
