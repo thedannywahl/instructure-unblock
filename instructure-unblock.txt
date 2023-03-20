@@ -5,112 +5,123 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
-! GENERAL
+! INSTRUCTURE
 @@||instructure.com$~third-party
-@@||masteryconnect.com$~third-party
-@@||portfolium.com$~third-party
-@@||du11hjcvx0uqb.cloudfront.net
+@@||canvas.com$~third-party
+@@||canvasconline.com$~third-party
+@@||instructurecon.com$~third-party
+@@||instructure-contact.com$~third-party
+
+    ! COMMUNITY
+    @@||xjnht99997.lithium.com$~third-party
+    @@||community.canvaslms.com$~third-party
+    @@||canvas.screenstepslive.com$~third-party
+    @@||https://s3.amazonaws.com/tr-learncanvas/*
+
+
+    ! EDUAPP CENTER
+    @@||edu-apps.org
+    @@||eduappcenter.com
+    @@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
+
+    ! ENGINEERING
+    @@||inseng.net
+    @@||insops.net
+    @@||inscloudgate.net
+    @@||instructure.design$~third-party
+    @@||instructure.github.io$~third-party
+
+! CANVAS LMS
 @@||canvaslms.com$~third-party
-@@||videri.certicaconnect.com$~third-party
-@@||eesysoft.com$~third-party
+@@||canvaslms.com.au$~third-party
+@@||canvaslms.com.hk$~third-party
+@@||canvaslms.eu$~third-party
+@@||canvasvle.co.uk$~third-party
+@@||canvas-contact.com$~third-party
 
-! ANALYTICS
-@@||canvas-analytics-*-prod.inscloudgate.net
+    ! ANALYTICS
+    @@||canvas-analytics-*-prod.inscloudgate.net
 
-! BADGES
+    ! COLLABORATIONS
+    @@||google-drive-lti-*-prod.instructure.com
+    @@||office365-*-prod.instructure.com
+
+    ! CANVAS COMMONS
+    @@||lor-images.s3.amazonaws.com
+    @@||pensieve*.s3.amazonaws.com
+
+    ! CONFERENCES
+    @@||blindsidenetworks.com$~third-party
+
+    ! CANVAS DATA
+    @@||pandata-events.*.inshosteddata.com
+    @@||portal.inshosteddata.com
+    @@||hosted-data-work.s3.amazonaws.com
+
+    ! DOCVIEWER
+    @@||canvadocs.instructure.com
+    @@||cluster*-files.instructure.com
+
+    ! FILE STORAGE
+    @@||instructure.cloudfront.net
+    @@||instructure-uploads*.s3.amazonaws.com
+    @@||inst-fs-*-prod.inscloudgate.net
+    @@||canvas-user-content.com
+    @@||du11hjcvx0uqb.cloudfront.net
+
+    ! MASTERYPATHS
+    @@||conditional-release-*-prod.instructure.com
+
+    ! OUTCOMES
+    ||outcomes-*-prod.instructure.com
+
+    ! QUIZZES
+    @@||*.quiz-lti-*-prod.instructure.com
+    @@||*.quiz-lti-*-beta.instructure.com
+    @@||*.quiz-api-*-prod.instructure.com
+    @@||*.quiz-api-*-beta.instructure.com
+
+    ! CANVAS LMS RCE
+    @@||rich-content-*.inscloudgate.net
+    @@||dvgcns7dz7zc.cloudfront.net/rce_service
+    @@||instructure.codecogs.com
+
+    ! SCORM
+    @@||scone-prod.*.insops.net
+    @@||scone-production-s3-filestore-*.s3.amazonaws.com
+    @@||scorm-*-prod.insops.net
+
+! CANVAS CREDENTIALS
+@@||badgr.com$~third-party
 @@||api.badgr.io
 
-! CANVAS DATA
-@@||pandata-events.*.inshosteddata.com
-@@||portal.inshosteddata.com
-@@||hosted-data-work.s3.amazonaws.com
+! CANVAS NETWORK
+@@||canvas.net$~third-party
 
-! COLLABORATIONS
-@@||google-drive-lti-*-prod.instructure.com
-@@||office365-*-prod.instructure.com
+! CANVAS STUDENT PATHWAYS
+@@||portfolium.com$~third-party
+@@||learningsuccess.org$~third-party
 
-! COMMONS
-@@||lor-images.s3.amazonaws.com
-@@||pensieve*.s3.amazonaws.com
-
-! COMMUNITY
-@@||xjnht99997.lithium.com$~third-party
-@@||community.canvaslms.com$~third-party
-@@||canvas.screenstepslive.com$~third-party
-
-! CONFERENCES
-@@||blindsidenetworks.com$~third-party
-
-! DOCUMENTATION
-@@||https://s3.amazonaws.com/tr-learncanvas/*
-
-! DOCVIEWER
-@@||canvadocs.instructure.com
-@@||cluster*-files.instructure.com
-
-! EDUAPPS
-@@||edu-apps.org
-@@||eduappcenter.com
-@@||eduappcenter-production-s3-bucketkey-*.s3.amazonaws.com
-
-! ENGINEERING
-@@||inseng.net
-@@||insops.net
-@@||instructure.design$~third-party
-@@||instructure.github.io$~third-party
-
-! FILE STORAGE
-@@||instructure.cloudfront.net
-@@||instructure-uploads*.s3.amazonaws.com
-@@||inst-fs-*-prod.inscloudgate.net
-@@||canvas-user-content.com
-
-! MASTERYPATHS
-@@||conditional-release-*-prod.instructure.com
-
-! OUTCOMES
-||outcomes-*-prod.instructure.com
-
-! QUIZZES
-@@||*.quiz-lti-*-prod.instructure.com
-@@||*.quiz-lti-*-beta.instructure.com
-@@||*.quiz-api-*-prod.instructure.com
-@@||*.quiz-api-*-beta.instructure.com
-
-! RCE
-@@||rich-content-*.inscloudgate.net
-@@||dvgcns7dz7zc.cloudfront.net/rce_service
-@@||instructure.codecogs.com
-
-! SCORM
-@@||scone-prod.*.insops.net
-@@||scone-production-s3-filestore-*.s3.amazonaws.com
-@@||scorm-*-prod.insops.net
-
-! STUDIO
+! CANVAS STUDIO
+@@||arc-contact.com$~third-party
 @@||instructuremedia.com
 @@||nv.instructuremedia.com
 @@||notorious-prod*.s3.amazonaws.com
 @@||s3.amazonaws.com/instructure-signal-prod/*
 
+! MASTERY CONNECT
+@@||masteryconnect.com$~third-party
+
+! IMPACT
+@@||eesysoft.com$~third-party
+
+! ELEVATE K-12 ANALYTICS
+@@||videri.certicaconnect.com$~third-party
+
 ! LEARNPLATFORM
 @@||app.learnplatform.com
 @@||domain-resources.learnplatform.com
 @@||data.learnplatform.com
-
-! CANVAS NETWORK
-@@||canvas.net$~third-party
-
-! REDIRECTS
-@@||canvasconline.com$~third-party
-@@||instructurecon.com$~third-party
-@@||instructure-contact.com$~third-party
-@@||canvas-contact.com$~third-party
-@@||arc-contact.com$~third-party
-@@||canvaslms.com.au$~third-party
-@@||canvaslms.com.hk$~third-party
-@@||canvaslms.eu$~third-party
-@@||canvasvle.co.uk$~third-party
 
 ! AUTHENTICATION US-EAST-1
 @@||184.72.117.210
