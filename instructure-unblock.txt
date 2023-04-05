@@ -30,6 +30,10 @@
     @@||instructure.design$~third-party
     @@||instructure.github.io$~third-party
 
+    ! DATA ACCESS PLATFORM
+    @@||data-access-platform-api.s3.*.amazonaws.com
+    @@||api-gateway.instructure.com
+
 ! CANVAS LMS
 @@||canvaslms.com$~third-party
 @@||canvaslms.com.au$~third-party
