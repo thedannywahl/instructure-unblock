@@ -125,6 +125,7 @@
 
 ! MASTERY CONNECT
 @@||masteryconnect.com$~third-party
+@@||app.masteryconnect-staging.com
 @@||app.masteryconnect.com
 
 ! IMPACT
