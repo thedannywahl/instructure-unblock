@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0023
+! Version: 0024
 ! Title: Instructure Unblock
-! Last modified: 1747840529
+! Last modified: 1752090419
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
@@ -98,6 +98,9 @@
     @@||scone-prod.*.insops.net
     @@||scone-production-s3-filestore-*.s3.amazonaws.com
     @@||scorm-*-prod.insops.net
+
+! CANVAS CAREER
+@@||canvasforcareer.com
 
 ! CANVAS CREDENTIALS
 @@||badgr.com$~third-party
