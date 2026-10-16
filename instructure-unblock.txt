@@ -18,6 +18,7 @@
     @@||instructurecast.com$~third-party
     @@||xjnht99997.lithium.com$~third-party
     @@||community.canvaslms.com$~third-party
+    @@||community.instructure.com$~third-party
     @@||canvas.screenstepslive.com$~third-party
     @@||tr-learncanvas.s3.amazonaws.com$~third-party
 
@@ -28,6 +29,7 @@
 
     ! ENGINEERING
     @@||inseng.net
+    @@||inseng.io
     @@||insops.net
     @@||inscloudgate.net
     @@||instructure.design$~third-party
