@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0025
+! Version: 002
 ! Title: Instructure Unblock
-! Last modified: 1752090535
+! Last modified: 1792162405
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/instructure-unblock
 
